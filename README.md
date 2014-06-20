@@ -22,5 +22,4 @@ Example:
         // close client and release resources
         producer.close();
         consumer.close();
-
         
